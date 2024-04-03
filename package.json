@@ -1,5 +1,5 @@
 {
-  "name": "versal",
+  "name": "@versal/versal-js",
   "version": "1.0.0",
   "description": "Collection of libraries supporting Versal's JS SDK",
   "main": "index.js",
@@ -7,8 +7,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/sixclovers/versal-js"
-  },
-  "dependencies": {
-    "@paypal/paypal-js": "^8.0.4"
   }
 }
